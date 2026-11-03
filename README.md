@@ -35,3 +35,5 @@ PivotTables and Slicers help users filter sales data by region and payment metho
 ## ✅ Conclusion
 
 This project demonstrates how Microsoft Excel can be used for data analysis and visualization.
+
+![Data Intelligence Dashboard](dashboard.png)
